@@ -1,7 +1,6 @@
 import { React, useEffect, useState } from "react";
 import { FaSearch, FaPlus } from "react-icons/fa";
 import { MdClose } from "react-icons/md";
-import dummyNotes from "../dummy_notes";
 import { Link } from "react-router-dom";
 import NoteItem from "../components/NoteItem";
 
