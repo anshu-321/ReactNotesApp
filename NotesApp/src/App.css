@@ -23,7 +23,7 @@ body {
   display: grid;
   place-items: center;
   color: var(--color-white);
-  background: #ccc;
+  background: black;
   line-height: 1.5;
 }
 
